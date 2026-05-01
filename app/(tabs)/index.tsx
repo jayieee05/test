@@ -19,6 +19,8 @@ export default function HomeScreen() {
       }>
       <ThemedView style={styles.titleContainer}>
         <ThemedText type="title">Michelle Capitan</ThemedText>
+        <ThemedText type="title">Rachel Mae Paragas</ThemedText>
+        <ThemedText type="title">Jay Marc Torrefranca</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
